@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+}
+
+.title-section{
+  text-align: center;
+  
+  
+}
+img {
+  border-style: solid;
+  border-color: blue;
+  border-width: 10px;
+}
